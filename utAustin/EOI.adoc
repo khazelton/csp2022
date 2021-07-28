@@ -33,3 +33,5 @@ _2021-07-28 13:12 references and links_
 
 https://cloud-elements.github.io/docs/elements/slack/ko/api-documentation.html?elementId=7292
  <= Workday REST APIs +
+https://www.youtube.com/watch?v=6mvKUer0wfg 
+ <= Walkthrough of using Workday APIs +
