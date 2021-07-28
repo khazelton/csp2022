@@ -27,3 +27,9 @@ https://docs.google.com/document/d/1Rsr__5ajPv9cnPoMQQSgjYITO-ehVlL_rIfIYNcajFY/
 ` Want to contribute back to community.
 
 `` Allured by Higher Ed community
+
+- - -
+_2021-07-28 13:12 references and links_
+
+https://cloud-elements.github.io/docs/elements/slack/ko/api-documentation.html?elementId=7292
+ <= Workday REST APIs +
