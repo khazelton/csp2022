@@ -7,13 +7,12 @@ _2021-07-28 09:42 prep for initial EoI discussion_
 https://docs.google.com/document/d/1Rsr__5ajPv9cnPoMQQSgjYITO-ehVlL_rIfIYNcajFY/edit
  => UT Austin EOI Scribing Doc +
 
-` Focus on Grouper and midPoint. Have in AWS Dev.
-
-` Using Sailpoint a bit - not using all the features. Taking data from Workday to homegrown system Texas Identity Manager. This does provisioning to active directory.
+` Focus on Grouper and midPoint. Have in AWS Dev. +
+` Using Sailpoint a bit - not using all the features. +
+`` Taking data from Workday to homegrown system Texas Identity Manager (TIM, Java based). 
+`` This does provisioning to active directory.
 
 ` Immediate focus is replacing Sailpoint
-
-` TIM is Java code
 
 ` Wondering if they mirror Sailpoint and midPoint for a while?
 
